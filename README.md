@@ -2,7 +2,7 @@
 
 A personnel database using SurrealDB.
 
-Check out the Jupyter Notebook.
+Check out the [pax-db](./pax-db.ipynb) Jupyter Notebook.
 
 Also works well with [Surrealist desktop app](https://github.com/StarlaneStudios/Surrealist/releases)
 
